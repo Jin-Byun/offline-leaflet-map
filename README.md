@@ -1,4 +1,4 @@
-# THIS PACKAGE IS NO LONGER MAINTAINED!
+# TODO: Make it to use current js/ts standards
 
 offline-leaflet-map
 ============
